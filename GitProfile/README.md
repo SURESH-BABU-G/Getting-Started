@@ -1,4 +1,4 @@
-# `Git Profile Customization for Better & Visual effect 👨‍💼`
+## `Git Profile Customization for Better & Visual effect 👨‍💼`
 
 ---
 

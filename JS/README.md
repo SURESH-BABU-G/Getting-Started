@@ -3,7 +3,7 @@
 ---
 
 ```diff
-+ A Brief Introduction on Mastering on js coding for better and faster coding 🤩 :desktop_computer:
++ A Brief Introduction on Mastering on js coding for better and faster coding 🤩 🖥️
 ```
 
 <section>
@@ -23,7 +23,7 @@
 
 ---
 
-<div style="text-align:center;font-weight:800;font-size:20px;color:green">The Result would be looking some thing like below </div>
+<div style="text-align:center;font-weight:800;font-size:20px;color:green" align="center">The Result would be looking some thing like below </div>
 <br />
 
 <img src="../Content/Screens/Js coding.png" alt="Getting Started" />

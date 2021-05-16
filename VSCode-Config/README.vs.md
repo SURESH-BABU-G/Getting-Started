@@ -25,13 +25,14 @@
 
 </style>
 
-# `Vs code Customization for Better & Faster Coding 💯`
+<link rel="stylesheet" href="../Content/CSS/vs.css">
+
+<div class="normalBg h1Size normalGap" style="font-weight:900;text-align:center">Vs code Customization for Better & Faster Coding 💯</div>
 
 ---
 
-```diff
-+ A Brief Introduction on how to customize the VS code for better and faster coding 🤩
-```
+<div class="gradient1 h2Size normalGap" style="font-weight:400;left:10px;right:10px">A Brief Introduction on how to customize the VS code for better and faster coding 🤩
+</div>
 
 <section>
     <ol style="font-weight:700">

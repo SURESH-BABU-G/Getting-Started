@@ -1,8 +1,10 @@
-## ` Vs code Customization for Better & Faster Coding 💯`
+<p style="background-color:#d1d5da; margin:10px;padding:20px;color:black;font-size:24px;font-weight:900;text-align:center">Vs code Customization for Better & Faster Coding 💯</p>
 
-### A Brief Introduction on how to customize the VS code for better and faster coding <g-emoji class="g-emoji" alias="star_struck" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f929.png">🤩</g-emoji><div>
+<span style="background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(214,214,222,1) 0%, rgba(0,212,255,1) 100%);margin:10px;padding:20px;font-size:20px;font-weight:400;left:10px;right:10px">A Brief Introduction on how to customize the VS code for better and faster coding 🤩
+</span>
 
-<section> 
+<section>
     <ol style="font-weight:700">
         <li> Most important is Shortcuts and Keyboard Access 💯</li>
         <li>The next most important is Plugins 🥇🥇🥇</li>
@@ -26,3 +28,8 @@
 ` The detailed Tutorial on settings & customization will be coming soon`
 
 #### Soon I'll link the detailed VS code configuration link.
+
+```
+
+<!-- h1: 32px, h2: 24px, h3: 18.72px, h4: 16px, h5: 13.28px, h6: 12px -->
+```

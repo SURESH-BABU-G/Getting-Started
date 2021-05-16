@@ -52,7 +52,7 @@
 <div style="text-align:center;font-weight:800;font-size:20px;color:green">The Result would be looking some thing like below </div>
 <br />
 
-<img src="../Content/Screens/Git Profile.png" alt="Getting Started" />
+<img src="../Content/Screens/Git profile.png" alt="Getting Started" />
 
 ```diff
 + The detailed Tutorial on settings & customization will be coming soon

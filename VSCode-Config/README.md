@@ -25,7 +25,9 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(214,214,222,1) 0%, rg
 
 <img src="../Content/Screens/full VS code SS.png" alt="Getting Started" />
 
-` The detailed Tutorial on settings & customization will be coming soon`
+```diff
++ The detailed Tutorial on settings & customization will be coming soon
+```
 
 #### Soon I'll link the detailed VS code configuration link.
 

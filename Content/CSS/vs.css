@@ -1,0 +1,112 @@
+.normalBg {
+  background-color: #d1d5da;
+  margin: 10px;
+  padding: 20px;
+  color: black;
+}
+
+.gradient1 {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgb(2, 0, 36, 1) 0%,
+    rgb(214, 214, 222, 1) 0%,
+    rgb(0, 212, 255, 1) 100%
+  );
+}
+
+.gradient2 {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(142, 142, 227, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.gradient3 {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(142, 93, 186, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.gradient4 {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(2, 75, 135, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.multiGradient1 {
+  background-image: linear-gradient(
+    to right top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+}
+
+.multiGradient2 {
+  background-image: linear-gradient(
+    to right top,
+    #240537,
+    #7f0245,
+    #c4402d,
+    #d79400,
+    #a8eb12
+  );
+}
+
+.multiGradient3 {
+  background-image: linear-gradient(
+    to right bottom,
+    #05371c,
+    #196229,
+    #3e8f2f,
+    #6ebd2b,
+    #a8eb12
+  );
+}
+
+.multiGradient4 {
+  background-image: linear-gradient(
+    to right bottom,
+    #05371c,
+    #005154,
+    #0068b1,
+    #006bfb,
+    #d712eb
+  );
+}
+
+.multiGradient5 {
+  background-image: linear-gradient(
+    to right bottom,
+    #37052e,
+    #4e0051,
+    #5b007c,
+    #570bb0,
+    #122ceb
+  );
+}
+
+.multiGradient6 {
+  background-image: linear-gradient(
+    to right bottom,
+    #052b37,
+    #005766,
+    #008788,
+    #00b99a,
+    #12eb9a
+  );
+}

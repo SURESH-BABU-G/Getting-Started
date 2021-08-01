@@ -37,9 +37,9 @@
 <img src="../Content/Screens/Web Developer Tool.png" alt="Getting Started" />
 
 ```diff
-+ The detailed Tutorial on newest code standards will be coming soon
++ The detailed Tutorial on Master web developer tool will be coming soon
 ```
 
-#### Soon I'll link the detailed Master JS coding link.
+#### Soon I'll link the detailed Master Web Developer Tool link.
 
 <!-- h1: 32px, h2: 24px, h3: 18.72px, h4: 16px, h5: 13.28px, h6: 12px -->

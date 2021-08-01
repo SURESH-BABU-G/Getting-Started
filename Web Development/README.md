@@ -1,45 +1,45 @@
-<img src="../Content/Banners/getting started.png" alt="Getting Started" />
+# `Master in Web development with better performance and quick snippets with web developer tool mastery 🖥️ 💯%`
 
-## Table of Contents
+---
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-
-## About <a name = "about" id="about"></a>
-
-Here I'll be posting the Web development Ideas - like some UI samples and some Components etc..
-
-## Getting Started <a name = "getting_started" id="getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
+```diff
++ A Brief Introduction to web developement with HTML, CSS, Java Script and web browser developer tool. 🤩 🖥️
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
+```diff
+# This topic is usefull for those who use web application (brave, chrome, mozilla) developer tool.  🤩 🖥️
 ```
 
-And repeat
+<section>
+    <ol style="font-weight:700">
+        <li> The most important thing is we need to know the structure & loading cycle of HTML 🧠</li>
+        <li> You should be obsessed with CSS as most important of structuring 💯% </li>
+        <li> The most important is Wesite Loading Flow </li>
+        <li> The most important is JavaScript utilization </li>
+        <li> Performance Depends on the plugins and CDN 🥇</li>
+        <li> Time saving is browser developer tool utilization  🧭 </li>
+        <li> The final case will be Web Page Performance test. ⬇️</li>
+        <li> Bonus: developer tool shortcuts and utilizations 😵 :clown_face: </li>
+    </ol>
+</section>
 
+<!--  The Result would be looking some thing like below -->
+
+
+```diff
+- Note:- If you follow these steps, You'll be able to understand the advanced level of Web Web development which is secured with best performance.🤩 🖥️
 ```
-until finished
+---
+
+<div style="text-align:center;font-weight:800;font-size:20px;color:green" align="center">The Result would be looking some thing like below </div>
+<br />
+
+<img src="../Content/Screens/Web Developer Tool.png" alt="Getting Started" />
+
+```diff
++ The detailed Tutorial on Web Development will be coming soon
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+#### Soon I'll link the detailed Master Web Development link.
 
-## Usage <a name = "usage" id="usage"></a>
-
-Add notes about how to use the system.
+<!-- h1: 32px, h2: 24px, h3: 18.72px, h4: 16px, h5: 13.28px, h6: 12px -->

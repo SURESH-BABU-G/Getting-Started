@@ -41,6 +41,6 @@
 + The detailed Tutorial on newest code standards will be coming soon
 ```
 
-#### Soon I'll link the detailed Master JS coding link.
+#### Soon I'll link the detailed Master VS Code link.
 
 <!-- h1: 32px, h2: 24px, h3: 18.72px, h4: 16px, h5: 13.28px, h6: 12px -->
